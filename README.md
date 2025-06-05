@@ -1,2 +1,2 @@
 # Programowanie_obiektowe_projekt
-Po_projekt_dziala
+Po_projekt_dziala_tylko_linux
