@@ -1,0 +1,3 @@
+/home/eryk/projekt/PO-projekt/build/CMakeFiles/Game.dir
+/home/eryk/projekt/PO-projekt/build/CMakeFiles/edit_cache.dir
+/home/eryk/projekt/PO-projekt/build/CMakeFiles/rebuild_cache.dir
